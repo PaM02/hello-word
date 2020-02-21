@@ -1,3 +1,3 @@
 # hello-word
 new project
-bonjour comment tu vas
+bonjour comment tu vas.
